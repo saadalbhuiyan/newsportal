@@ -1,0 +1,1 @@
+export default () => <footer className="bg-gray-800 text-white text-center py-4">&copy; 2025</footer>;
